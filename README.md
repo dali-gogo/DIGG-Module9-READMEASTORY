@@ -5,7 +5,7 @@ Dalia Gomez - Module 9 Challenge: Node JS, README A Story.
 The purpose of this challenge was to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquire package.
 
 ## Links
-- URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module11-TheScribe
+- URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module9-READMEASTORY
 
 ## User Story
 AS A developer
